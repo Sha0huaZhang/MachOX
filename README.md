@@ -17,7 +17,7 @@ To Bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
         security find-identity -v -p basic | grep "Apple Development"
         ```
         
-        Copy the Team ID from the output (e.g., `A11A111AAA`)
+            Copy the Team ID from the output (e.g., `A11A111AAA`)
         从输出中获取你的 Team ID （例如`A11A111AAA`）
 **Sign your file**
     **签名文件**
