@@ -8,8 +8,8 @@ To Bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
 **Sign up an Apple Developer account (If not signed up)**
     注册Apple Developer账号（如果尚未注册）
 
-**Get your Team ID**
-    **获取你的 Team ID**
+**Get your Team ID**    
+    **获取你的 Team ID**    
         In Terminal ,run
         在终端运行
         
@@ -20,21 +20,21 @@ To Bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
     Copy the Team ID from the output (e.g., `A11A111AAA`)
     
     从输出中获取你的 Team ID （例如`A11A111AAA`）
-**Sign your file**
-    **签名文件**
-        In Terminal ,run
+**Sign your file**    
+    **签名文件**    
+        In Terminal ,run。  
         在终端运行
         
             ```bash
             ./MachOX -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
             ```
         
-**3. Verify the output**
-    **验证输出**
+**3. Verify the output**    
+    **验证输出**    
 
         The signed helper will be saved to your Desktop as `helper_resign`.
 
-# Parameters/参数
+# Parameters/参数    
 
 | Parameter |                         Description                            |
 |-----------|----------------------------------------------------------------|
