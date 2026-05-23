@@ -59,7 +59,7 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 
 
 # Credit/致谢       
-Lars Fröder (@opa334)[https://GitHub.com/opa334] :  ChOma
+Lars Fröder (@opa334)[https://GitHub.com/opa334](https://GitHub.com/opa334) :  ChOma
 
 
 
