@@ -17,7 +17,7 @@ In Terminal ,run
         ```security find-identity -v -p basic | grep "Apple Development"```
 
 
-Copy the Team ID from the output (e.g., `A11A111AAA`)
+Copy the Team ID from the output (e.g., `A11A111AAA`)    
     从输出中获取你的 Team ID （例如`A11A111AAA`）
 
 **Sign your file/签名文件**    
@@ -40,6 +40,7 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 | `-t`      | Your Team ID (from step 1)                                     |
 
 
+    
 |    参数    |                     内容                     |
 |-----------|---------------------------------------------|
 | `-i`      | 输入文件 （任意文件均可，MachOX 会使用内置模板覆盖它）|
