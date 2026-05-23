@@ -1,7 +1,4 @@
 # MachOX
-**Thanks/致谢**   
-    Lars Fröder (@opa334) :  ChOma
-
 # Utility/用途
     To Bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and higher versions.
     在 iOS 16.7(20H19) & iOS 17.0.1 及更高版本绕过CoreTrust的签名验证
@@ -44,3 +41,11 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 | `-i`      | 输入文件 （任意文件均可，MachOX 会使用内置模板覆盖它）|
 | `-o`      | 输出文件路径                                   |
 | `-t`      | 你的 Team ID （从步骤1获取）                    |
+
+
+
+
+**Thanks/致谢**   
+    Lars Fröder (@opa334) :  ChOma
+
+
