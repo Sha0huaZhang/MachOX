@@ -8,8 +8,7 @@ To Bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
 **Sign up an Apple Developer account/注册Apple Developer账号** (If not signed up)（如果尚未注册）
     
 
-**Get your Team ID**    
-    **获取你的 Team ID**    
+**Get your Team ID/获取你的 Team ID**    
       
 In Terminal ,run    
     在终端运行    
