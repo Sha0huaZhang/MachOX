@@ -49,7 +49,7 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 
 
 
-**Thanks/致谢**   
+# Thanks/致谢   
     Lars Fröder (@opa334) :  ChOma
 
 
