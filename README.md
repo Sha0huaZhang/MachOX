@@ -10,7 +10,7 @@ To bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
 
 **Build MachOX/构建 MachOX**
 
-In Terminal ,run    
+In Terminal, run    
     在终端运行    
 
         git clone https://github.com/ShaOhuaZhang/MachOX.git
@@ -19,7 +19,7 @@ In Terminal ,run
 
 **Get your Team ID/获取你的 Team ID**    
       
-In Terminal ,run    
+In Terminal, run    
     在终端运行    
         
         security find-identity -v -p basic | grep "Apple Development"
@@ -30,7 +30,7 @@ Copy the Team ID from the output (e.g., `A11A111AAA`)
 
 **Sign your file/签名文件**    
 
-In Terminal ,run    
+In Terminal, run    
     在终端运行    
         
         ./MachOX -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
