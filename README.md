@@ -35,7 +35,7 @@ In Terminal ,run
         
         ./MachOX -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
         
-**3. Verify the output/验证输出**    
+**Verify the output/验证输出**    
 
 The signed helper will be saved to your Desktop as `helper_resign`.    
     签名后的 Helper 文件将保存在你的桌面，文件名为 `helper_resign`。
@@ -59,7 +59,7 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 
 
 # Credit/致谢       
-Lars Fröder (@opa334) :  ChOma
+Lars Fröder (@opa334)[https://GitHub.com/opa334] :  ChOma
 
 
 
