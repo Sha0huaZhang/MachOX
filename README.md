@@ -13,6 +13,7 @@ To Bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
       
 In Terminal ,run    
     在终端运行    
+        
         ```security find-identity -v -p basic | grep "Apple Development"```
 
 
