@@ -17,7 +17,7 @@ In Terminal ,run
 
 
 Copy the Team ID from the output (e.g., `A11A111AAA`)    
-    从输出中获取你的 Team ID （例如`A11A111AAA`）
+    从输出中获取你的 Team ID （如`A11A111AAA`）
 
 **Sign your file/签名文件**    
 
