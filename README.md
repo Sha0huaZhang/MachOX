@@ -22,7 +22,7 @@ Copy the Team ID from the output (e.g., `A11A111AAA`)
 
 **Sign your file/签名文件**    
 
-In Terminal ,run。      
+In Terminal ,run    
     在终端运行    
         
         ```./MachOX -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID```
