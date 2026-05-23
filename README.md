@@ -39,6 +39,7 @@ In Terminal ,run
 
 The signed helper will be saved to your Desktop as `helper_resign`.    
     签名后的 Helper 文件将保存在你的桌面，文件名为 `helper_resign`。
+    
 # Parameters/参数    
 
 | Parameter |                         Description                            |
@@ -59,6 +60,7 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 
 
 # Credit/致谢       
+
 Lars Fröder (@opa334)[https://GitHub.com/opa334](https://GitHub.com/opa334) :  ChOma
 
 
