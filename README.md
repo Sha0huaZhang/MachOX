@@ -5,7 +5,7 @@ To Bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
     在 iOS 16.7(20H19) & iOS 17.0.1 及更高版本绕过CoreTrust的签名验证
 #  Usage/使用方法
 
-    **Sign up an Apple Developer account (If not signed up) **
+**Sign up an Apple Developer account (If not signed up) **
     注册Apple Developer账号（如果尚未注册）
 
     **Get your Team ID**
