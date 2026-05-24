@@ -3,6 +3,16 @@
 
 To bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and higher versions.    
     在 iOS 16.7(20H19) & iOS 17.0.1 及更高版本绕过CoreTrust的签名验证
+
+# Support Version/支持版本
+
+| Parameter |                         Description                            |
+|-----------|----------------------------------------------------------------|
+| ios| Input file (any dummy file, built-in template will replace it) |
+| `-o`      | Output file path                                               |
+| `-t`      | Your Team ID (from step 1)                                     |
+
+
 #  Usage/使用方法
 
 **Sign up an Apple Developer account/注册Apple Developer账号** (If not signed up)（如果尚未注册）
