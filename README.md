@@ -9,13 +9,13 @@ To bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
 | Version (iOS 16) | From   | To   |
 |-------------|--------------|----|
 | Unsupported | iOS 16.0 | iOS 16.7 RC  |
-| Supported   | iOS 16.7   | iOS 16.7.16 |
+| Supported   | iOS 16.7   | iOS 16.7.x |
 
 | Version (iOS 17) | From   | To   |
 |-------------|--------------|----|
 | Unsupported | iOS 17.0 | iOS 17.0  |
 | Supported   | iOS 17.0.1 | iOS 17.0.1 |
-| Unsupported | iOS 17.0.2 | iOS 17.7.7 |
+| Unsupported | iOS 17.0.2 | iOS 17.7.x |
 
 #  Usage/使用方法
 
