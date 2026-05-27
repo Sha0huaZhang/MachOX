@@ -2,9 +2,9 @@
 
 **SHA256**
 
-MachOX_force:541539ffb9a8dabf1afed6f00b216c81c5f46158db6e5dd4b139be8d2a60ba75    
+MachOX_force : 541539ffb9a8dabf1afed6f00b216c81c5f46158db6e5dd4b139be8d2a60ba75    
 
-MachOX_force.zip7f07e6cbe88b759f8c83c6a2ec8617b4e0585e960eed84fdfc7342f8d2d40573  
+MachOX_force.zip : 7f07e6cbe88b759f8c83c6a2ec8617b4e0585e960eed84fdfc7342f8d2d40573  
 
 # Utility/用途
 
