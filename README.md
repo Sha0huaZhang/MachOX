@@ -6,10 +6,16 @@ MachOX_force : 541539ffb9a8dabf1afed6f00b216c81c5f46158db6e5dd4b139be8d2a60ba75
 
 MachOX_force.zip : 7f07e6cbe88b759f8c83c6a2ec8617b4e0585e960eed84fdfc7342f8d2d40573  
 
+ **This tool is built upon / 本工具基于以下技术构建：**    
+
+**PerfectCheater** : CoreTrust Bypass vulnerability       
+
+
 # Utility/用途
 
 To bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and higher versions.    
     在 iOS 16.7(20H19) & iOS 17.0.1 及更高版本绕过CoreTrust的签名验证
+
 
 # Support Version/支持版本
 
@@ -78,11 +84,17 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 | `-t`      | 你的 Team ID （从步骤1获取）                      |
 
 
+# License / 许可证
 
+This project is licensed under the **MIT License**    
 
-# Credit/致谢       
+本项目遵循 **MIT 协议**
 
-Lars Fröder (@opa334)[https://GitHub.com/opa334](https://GitHub.com/opa334) :  ChOma
+# Credit/致谢   
+(in alphabetical/按首字母排列)
+
+Lars Fröder (@opa334)[https://GitHub.com/opa334](https://GitHub.com/opa334) :  ChOma    
+Sha0huaZhang [https://GitHub.com/Sha0huaZhang](https://GitHub.com/Sha0huaZhang) : PerfectCheater (CoreTrust Bypass)
 
 
 
