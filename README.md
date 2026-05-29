@@ -40,7 +40,7 @@ To bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
 In Terminal, run    
     在终端运行    
 
-        git clone https://github.com/ShaOhuaZhang/MachOX.git
+        git clone https://github.com/Sha0huaZhang/MachOX.git
         cd MachOX
         make
 
