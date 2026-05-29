@@ -35,7 +35,7 @@ To bypass CoreTrust's signature verification on iOS 16.7(20H19) & iOS 17.0.1 and
 **Sign up an Apple Developer account/注册Apple Developer账号** (If not signed up)（如果尚未注册）
     
 
-**Build MachOX/构建 MachOX**
+**Build MachOX/构建 MachOX (If it isn't precompilation binary/如果不是预编译的二进制)**
 
 In Terminal, run    
     在终端运行    
