@@ -120,7 +120,7 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 
 This project is licensed under the **MIT License**    
 
-本项目遵循 **MIT 协议**
+本项目遵循 **MIT 开源协议**
 
 # Credit/致谢   
 (in alphabetical/按首字母排列)
