@@ -115,6 +115,22 @@ The signed helper will be saved to your Desktop as `helper_resign`.
 | `-o`      | 输出文件路径                                     |
 | `-t`      | 你的 Team ID （从步骤1获取）                      |
 
+# Support / 支持
+
+If you encounter any issues, please contact (By Chinese or English) :    
+如遇问题，请联系 (请使用中文或英语)：
+
+`trollresignertest1@outlook.com`
+
+And include details in your email    
+并附上详细信息 
+
+
+
+# Social / 联系方式    
+
+- Twitter: [@Sha0huaZhang](https://twitter.com/Sha0huaZhang)
+- Mastodon: [@Sha0huaZhang@mastodon.social](https://mastodon.social/@Sha0huaZhang)
 
 # License / 许可证
 
