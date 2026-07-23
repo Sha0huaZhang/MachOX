@@ -1,11 +1,5 @@
 # MachOX
 
-**SHA256**
-
-MachOX_force : 541539ffb9a8dabf1afed6f00b216c81c5f46158db6e5dd4b139be8d2a60ba75    
-
-MachOX_force.zip : 7f07e6cbe88b759f8c83c6a2ec8617b4e0585e960eed84fdfc7342f8d2d40573  
-
  **This tool is built upon / 本工具基于以下技术构建：**    
 
 **PerfectCheater** : CoreTrust Bypass vulnerability       
@@ -93,7 +87,21 @@ In Terminal, run
     在终端运行    
         
         ./MachOX -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
+
+Some Version is   
+ 有些版本为
         
+        ./MachOX_force_MacPorts_x86_64 -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
+
+or    
+或
+
+         ./MachOX_force_Homebrew_arm64  -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
+  
+It depends on the version you download    
+这取决于你下载的版本    
+
+
 **Verify the output/验证输出**    
 
 The signed helper will be saved to your Desktop as `helper_resign`.    
