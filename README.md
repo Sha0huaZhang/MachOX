@@ -99,7 +99,10 @@ or
          ./MachOX_force_Homebrew_arm64  -i dummy -o ~/Desktop/helper_resign -t YOUR_TEAM_ID
   
 It depends on the version you download    
-这取决于你下载的版本    
+这取决于你下载的版本   
+
+注意！被签名的文件必须是真实的Mach-O可执行文件或.app包，不能使用其他文件（如空文件）    
+Warning! The signed file must be a genuine Mach-O executable or .app bundle; do not use other types of files (such as empty files).    
 
 
 **Verify the output/验证输出**    
